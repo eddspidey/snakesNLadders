@@ -1,7 +1,8 @@
 # Snakes and Ladders Game
 
 ## Board Rules 
-### 1. Size of board can't be zero or negative.
+### 1. You can configure the board and all the components from application.properties.
+### 2. Size of board can't be zero or negative.
 
 ## Snake & Ladder Rules
 ### 1. Snakes and Ladder can't have negative starting or ending point.
