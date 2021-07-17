@@ -17,3 +17,5 @@
 ### 3. Player can't start without getting 6, although his chances will start deducting from the total count.
 ### 4. Player will be given a free chance if dice rolls 6 at the starting point.
 ### 5. Player has to wait to get to exact end-point if he/she comes near the end, i.e, if the player is at 98, he/she has to wait until dice gives 1 or 2. 
+
+### NOTE : Player, Board and Jump classes were in my model directory but I mistakenly moved them to main directory and I didn't notice it until now, I'm out and I don't have the access to my system to fix it. :)
