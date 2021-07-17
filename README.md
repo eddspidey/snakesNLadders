@@ -20,5 +20,5 @@
 
 ### NOTE : Player, Board and Jump classes were in my model directory but I mistakenly moved them to main directory and I didn't notice it until now, I'm out and I don't have the access to my system to fix it. :)
 
-##Future Plan : 
+## Future Plan : 
 ### 1. Use MockMvc to properly call the services and use them in Test cases instead of directly calling the services and validations.
