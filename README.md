@@ -1,7 +1,7 @@
 # Snakes and Ladders Game
 
 ## Board Rules 
-### 1. You can configure the board and all the components from application.properties.
+### 1. You can configure the board and all the components from src/main/resources/application.properties.
 ### 2. Size of board can't be zero or negative.
 
 ## Snake & Ladder Rules
